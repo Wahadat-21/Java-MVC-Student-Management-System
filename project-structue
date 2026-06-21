@@ -1,0 +1,13 @@
+StudentManagementMVC/
+│
+├── model/
+│   ├── Student.java
+│   └── StudentDAO.java
+│
+├── view/
+│   └── StudentView.java
+│
+├── controller/
+│   └── StudentController.java
+│
+└── Main.java
